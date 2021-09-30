@@ -1,0 +1,101 @@
+body{
+    background-color: #FFA199;
+    color: #132C5A;
+}
+
+input{
+    height: 50px;
+    width: 400px;
+
+}
+
+button{
+    height: 50px;
+    width: 400px;
+    background-color: #88BDFE;
+    color: #132C5A;
+    border-width: 0ch;
+}
+
+button:hover{
+    height: 50px;
+    width: 400px;
+    background-color: #64aaff;
+    color: #1f4892;
+    cursor: pointer;
+    border-width: 0ch;
+}
+
+.topDiv{
+    background-color: black;
+    width: 100%;
+    padding-bottom: 20px;
+    color: #3E78E3;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+.loginForm{
+    background-color: coral;
+    width: 100%;
+    text-align: center;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+.FilterForm{
+    background-color: coral;
+    width: 100%;
+    text-align: center;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+.inputSpecialDate{
+    height: 50px;
+    width: 200px;
+}
+
+tr{
+    background-color: #e9938b;
+    height: 50px;
+}
+
+tr:hover{
+    background-color: #bd7670;
+    height: 50px;
+}
+
+table{
+    border-color: black;
+    border-width: 0ch;
+    width: 100%;
+    font-size: 150%;
+}
+
+.who{
+    width: 20%;
+}
+
+.des{
+    width: 50%;
+}
+
+.since{
+    width: 15%;
+}
+
+.till{
+    width: 15%;
+}
+
+
+.first{
+    background-color: #9c615c;
+    height: 50px;
+}
+
+.first:hover{
+    background-color: #9c615c;
+    height: 50px;
+}
