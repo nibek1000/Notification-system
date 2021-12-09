@@ -13,7 +13,8 @@ Just upload `htdocs` on your server and import `notification.sql` to your phpmya
 
 * Secure login system
 * Useful filters for notifications
-* Password encryption* Multi-layer system
+* Password encryption
+* Multi-layer system
 * Easy to use for everyone
 * Admin panel with more important features
 * Locking the system takes just a few milliseconds, so data will be secure
