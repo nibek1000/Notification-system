@@ -1,5 +1,5 @@
 # Notification system
-Simple system to notify everyone in the company about new notifications. Because informations like this may be very private and needed to be secure if session is locked the password is needed. If employe will not lock the system, after 30 minutes it will lock itself. Admin can change master password if needed as well as add new notifications.
+A simple system to notify everyone in the company about new notifications. Because information like this may be very private and needed to be secure if session is locked the password is needed. If employees will not lock the system, after 30 minutes it will lock itself. Admin can change master password if needed as well as add new notifications.
 
 ## This one important
 
@@ -13,13 +13,11 @@ Just upload `htdocs` on your server and import `notification.sql` to your phpmya
 
 * Secure login system
 * Useful filters for notifications
-* Password encryption
-* Multi-layer system
-* Easy to youse for everyone
-* Admin panel with most important features
-* Locking the system takes just few milliseconds so data will be secure
-* One password for every employe - few users for admin panel!
-* Good looking css
+* Password encryption* Multi-layer system
+* Easy to use for everyone
+* Admin panel with more important features
+* Locking the system takes just a few milliseconds, so data will be secure
+* One password for every employe - few users from admin panel!* Good looking CSS
 * No heavy coding so website is great for older machines ;)
 
 ## Contributing
