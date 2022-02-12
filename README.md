@@ -1,6 +1,10 @@
 # Notification system
 A simple system to notify everyone in the company about new notifications. Because information like this may be very private and needed to be secure if session is locked the password is needed. If employees will not lock the system, after 30 minutes it will lock itself. Admin can change master password if needed as well as add new notifications.
 
+## This tool was replaced
+
+This tool was replaced with [Security system](https://github.com/nibek1000/security-system), that include notifications.
+
 ## This one important
 
 This tool is in MIT license but I am just a student and I may not have best security practices in use here. Use at your own risk.
